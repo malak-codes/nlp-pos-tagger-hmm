@@ -43,5 +43,5 @@ python ex3.py
 The script will train the HMM model on the Brown Corpus, apply the Viterbi algorithm to the test set, and output the error rates and the most frequent tagging errors.
 
 ## Authors
-- Malak Laham
-- Zenab Waked
+- Malak
+- Zenab
